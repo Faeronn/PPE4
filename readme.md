@@ -1,4 +1,4 @@
-<p align="center"><img src="illus_ppe4.png" width="400"></p>
+<p align="center"><img src="illus_ppe4.PNG" width="400"></p>
 
 ## About
 
