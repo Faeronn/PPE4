@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GSB</string>
+    <string name="full_app_name">Laboratoire GSB</string>
+
+    <string name="string_login">CONNECTION</string>
+    <string name="string_register">INSCRIPTION</string>
+
+    <string name="string_name">Prenom</string>
+    <string name="string_surname">Nom</string>
+    <string name="string_username">Nom d\'Utilisateur</string>
+    <string name="string_password">Mot de Passe</string>
+
+    <string name="string_new_frais">Nouveau</string>
+    <string name="string_add_frais">Ajouter un Frais</string>
+    <string name="string_profile">Profil</string>
+    <string name="string_frais">Frais</string>
+    <string name="string_visite">Visite</string>
+    <string name="string_change_frais">Modifier</string>
+    <string name="string_valider">Valider</string>
+
+    <string name="mesFrais_description">Description</string>
+    <string name="mesFrais_montant">Montant</string>
+
+
+    <string name="string_infos">Description</string>
+    <string name="string_quantite">Quantité</string>
+    <string name="string_montant">Montant</string>
+
+</resources>

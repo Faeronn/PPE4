@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_checkVisites"
+        android:icon="@drawable/icon_visite_36"
+        android:title="@string/string_visite"/>
+    <item
+        android:id="@+id/action_checkFrais"
+        android:icon="@drawable/icon_frais_36"
+        android:title="@string/string_frais"/>
+    <item
+        android:id="@+id/action_addFrais"
+        android:icon="@drawable/icon_add_36"
+        android:title="@string/string_new_frais"/>
+    <item
+        android:id="@+id/action_changeFrais"
+        android:icon="@drawable/icon_change_36"
+        android:title="@string/string_change_frais"/>
+    <item
+        android:id="@+id/action_profile"
+        android:icon="@drawable/icon_profile_36"
+        android:title="@string/string_profile"/>
+</menu>
