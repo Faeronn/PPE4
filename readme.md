@@ -2,7 +2,7 @@
 
 ## About
 
-Il s'agit du Projet Personnel Encadré n°4, crée avec Android Studio dans le cadre de l'entreprise fictive GSB.
+Il s'agit du Projet Personnel Encadré n°4, crée avec Android Studio dans le cadre de l'entreprise fictive GSB (JAVA).
 
 
 
